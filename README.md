@@ -58,9 +58,9 @@ Apuntes → Procesamiento local (resumen · quiz · glosario · SRS) → Repaso
 
 ```bash
 git clone https://github.com/TU-USUARIO/pepe-llm.git
-cd pepe-llm
-npm install
-npm run dev
+cd Pepe.llm
+npm.cmd install
+npm.cmd run dev
 ```
 
 Abre `http://localhost:5173` y listo. No necesitas claves ni base de datos para el modo local; la IA de Groq solo requiere tu clave si la quieres activar.
